@@ -1,0 +1,145 @@
+*
+{
+  /* border: 0; */
+  margin: 0;
+}
+.background
+{
+  background-image: url(./netflix.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  
+}
+
+/* .net
+{
+  display: flex;
+} */
+
+
+.logo
+{
+  height: 10vh;
+  width: 10%;
+  margin-left: 70px;
+  margin-top: 15px;
+}
+
+.eng
+{
+  color: black;
+  font-family: sans-serif;
+  background-color: whitesmoke;   
+}
+
+.sign
+{
+  margin-right: -1500px;
+position: relative;
+  background-color: red;
+  color: white;
+  font-family: sans-serif;
+}
+/* top  */
+
+.text
+{
+color: white;
+font-family: sans-serif;
+font-size: xx-large;
+font-style: italic;
+margin-left: 600px;
+font-weight: bolder;
+}
+
+.text1
+{
+  color: white;
+font-family: sans-serif;
+font-size: larger;
+font-style: italic;
+margin-left: 600px;
+font-weight: bolder;
+}
+
+.ready
+{
+  color: white;
+font-family: sans-serif;
+font-size: larger;
+font-style: italic;
+margin-left: 400px;
+font-weight: bolder;
+}
+
+.mail {
+  height: 50px;
+  width: 500px;
+  margin-left: 400px;
+}
+.get {
+  color: white;
+  background-color: red;
+  width: 150px;
+  height: 60px;
+  margin-left: 908px;
+  position: relative;
+  top: -58px;
+}
+/* background completes */
+
+.box
+{
+  border: solid 2px grey;
+  background-color: black;
+  height: 400px;
+  width: 100%;
+}
+.en
+{
+  color: white;
+  font-size: x-large;
+
+  font-family: sans-serif;
+  margin-left: 400px;
+  margin-top: 100px;
+}
+
+.watch
+{
+  color: whitesmoke;
+  font-size: large;
+  font-family: sans-serif;
+  font-style: italic;
+  margin-left: 400px;
+}
+
+.tv
+{
+  height: 250px;
+  margin-left: 800px;
+  position: relative;
+  top: -180px;
+}
+
+.video
+{
+  height: 150px;
+  margin-left: 845px;
+  position: relative;
+  width: 243px;
+  /* top: -390px; */
+}
+.vt
+{
+margin-bottom: 800px;
+position: relative;
+bottom: 100px;
+}
+
+.enwatch
+{
+  margin-top: 100px;
+}
